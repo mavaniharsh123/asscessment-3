@@ -1,0 +1,154 @@
+body{
+    background-color: grey;
+}
+.card{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    border: 7px solid #ff0000;
+    border-radius: 10px;
+    margin-right: 555px;
+    margin-left: 555px;
+    color: crimson;
+    box-shadow: 10px 10px purple;
+    
+}
+.cash{
+    border: 9px solid green;
+    height: 689px;
+    width: 1485px;
+    margin-top: 60px;
+    
+}
+.cash2{
+    border: 5px solid red;
+    border-radius: 15px;
+    background-color: ivory;
+    font-family: 'Times New Roman', Times, serif;
+    color: mediumblue;
+    margin-right: 1263px;
+    text-shadow: 3px 3px 5px skyblue;
+    text-align: center;
+    float: left;
+    clear: left;
+    height: 243px;
+    width: 278px;
+    font-size: 24px;
+    padding-top: 10px;
+    box-shadow: 8px 8px purple;
+    
+}
+.cash3{
+    border: 5px solid red;
+    border-radius: 15px;
+    background-color: ivory;
+    height: 243px;
+    width: 278px;
+    float: right;
+    clear: right;
+    margin-top: -263px;
+    margin-right: 8px;
+    box-shadow: 8px 8px purple;
+}
+.big{
+    background-color: yellow;
+    border: 8px solid red;
+    box-shadow: 5px 5px purple;
+    position: sticky;
+    bottom: 15px;
+    border-radius: 14px;
+    margin-right: 555px;
+    margin-left: 555px;
+    height: 100px;
+    width: 410px;
+    display: flex;
+    font-style: italic;
+}
+.big1{
+    font-size: 10px;
+    color: darkred;
+    text-align: left;
+}
+.big2{
+    font-size: 10px;
+    color: darkred;
+    text-align: right;
+    padding-left: 69px;
+}
+.cash4{
+    border: 5px solid red;
+    border-radius: 15px;
+    background-color: ivory;
+    height: 243px;
+    width: 278px;
+    float: left;
+    clear: left;
+    font-size: 20px;
+    margin-top: 165px;
+    box-shadow: 8px 8px purple;
+    font-family: sans-serif;
+    text-shadow: 3px 3px 5px skyblue;
+    text-align: center;
+    color: mediumblue;
+}
+.cash5{
+    border: 5px solid red;
+    border-radius: 15px;
+    background-color: ivory;
+    height: 243px;
+    width: 278px;
+    float: right;
+    clear: right;
+    margin-top: 165px;
+    box-shadow: 8px 8px purple;
+    font-family: sans-serif;
+    text-shadow: 3px 3px 5px skyblue;
+    text-align: center;
+    margin-right: 5px;
+    color: mediumblue;
+}
+.star{
+    background-color: darkgreen;
+    border: 8px solid purple;
+    height: 800px;
+    width: 900px;
+    margin-left: 282px;
+    margin-top: 80px;
+    text-align: center;
+    font-size: 22px;
+}
+.star1{
+    background-color: khaki;
+    border: 3px solid red;
+    height: 300px;
+    width: 425px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 47px;
+    margin-left: 22px;
+}
+.star2{
+    background-color: khaki;
+    border: 3px solid red;
+    height: 300px;
+    width: 410px;
+    font-size: 11px;
+    text-align: center;
+    line-height: 47px;
+    float: right;
+    clear: right;
+    margin-top: -306px;
+    margin-right: 15px;
+    text-align: center;
+}
+.star3{
+    background-color: khaki;
+    border: 3px solid red;
+    height: 371px;
+    width: 870px;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 13px;
+    margin-top: 14px;
+    line-height: 61px;
+}
